@@ -1,5 +1,7 @@
-This is Cesar Castanon's history.
+This is Cesar Castanon's history...
 
 Cesar is 18 years old and was born in the US.
 
-Tomorrow we will focus on his personal life.
+Tomorrow we will focus on his personal dilemma.
+
+I added more info to the html. and .css files
