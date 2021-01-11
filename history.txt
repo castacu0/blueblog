@@ -1,10 +1,9 @@
 This is Cesar Castanon's history...
 
-Cesar is 18 years old and was born in the US.
+Cesar is 20 years old and was born in Mexico.
 
-Hi, my name is Arturo and I love watching F1.
-I haven't yet installed my Virtual Machine.
+Arturo is 21, and he loves watching F1.
+He hasn't yet installed a Virtual Machine.
 
-Tomorrow we will focus on his personal dilemma.
+Tomorrow we will focus on their personal dilemmas.
 
-I added more info to the html. and .css files
