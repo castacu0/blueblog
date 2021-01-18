@@ -5,5 +5,7 @@ Cesar is 20 years old and was born in Mexico.
 Arturo is 21, and he loves watching F1.
 He hasn't yet installed a Virtual Machine.
 
-Tomorrow we will focus on their personal dilemmas.
+Vox Acta here, I'm 22, and live in Quebec.
+It is good to be contributing to this Open Source project.
 
+Tomorrow we will focus on their personal dilemmas.
