@@ -1,11 +1,13 @@
 This is Cesar Castanon's history...
+First change of two
 
 Cesar is 20 years old and was born in Mexico.
 
-Arturo is 21, and he loves watching F1.
+Arturo's 21, and he loves watching F1.
 He hasn't yet installed a Virtual Machine.
 
-Vox Acta here, I'm 22, and live in Quebec.
+Vox Acta here. I'm 22, and live in Quebec.
 It is good to be contributing to this Open Source project.
 
+This is the second change, I completely forgot to send it.
 Tomorrow we will focus on their personal dilemmas.
