@@ -1,28 +1,47 @@
+<div align="center">
+  <h1> Blue Blog 🔵</h1>
+</div>
 
-# Blue Blog 🧿
- An awesome blog created to practice what I saw on the course!
+<div align="center"> 
+  <img src="images/blueblog.png" width="250">
+</div>
 
-Which course? Here you have it: [Git and GitHub Professional Course](https://platzi.com/cursos/git-github/?utm_source=google&utm_medium=cpc&utm_campaign=11666708760&utm_adgroup=&utm_content=&&gclid=Cj0KCQiA0fr_BRDaARIsAABw4EtfrcFsya-0WjAA3nZ_OQs1WvgWM-5WlvdCaijwmnDqEGJFdj645SkaAkyJEALw_wcB&gclsrc=aw.ds).
+# Brief introduction 💧
+
+The content of this repo is based on the courses I've been taken the past few months to learn Git & Github:
+ - [Prework Windows Environment Course](https://platzi.com/clases/prework-windows/) 🎎
+ - [Introduction to the Terminal and Command Line Course](https://platzi.com/clases/terminal/) 🪐
+ - [Git and GitHub Professional Course](https://platzi.com/clases/git-github/) 🌄
+ 
+
+# Learning and practicing the language 🌋
+
+Some projects I made to introduce myself into this VCS.
+  - Checkouts 
+  - Branches
+  - Pull Requests
+  - Data types
+  - Private & Public Keys
+  - GitHub Pages
+
 
 ![](https://www.facebook.com/photo?fbid=110181744331307&set=a.105643161451832)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
 
-###Personal opinion
+## Personal opinion 😮
 
 > Even though you are new or not with Git and GitHub, you will learn something new. 
 
-####Public Review
-> "Excellent course, I did not think I would be having my account this pretty so fast. Never stop learning!", [Course  reviews](https://platzi.com/cursos/git-github/opiniones/1/)。
 
-####Social Media
+### Social Media 🎉
 Some other projects created for practicing.
 
 `Youtube Channel` : [Ingles Practico con Cesar](https://www.youtube.com/watch?v=NuIiEnMTuwk&t=5s)
 
 `Personal Blog` : [Cesar - English Writing Challenge](https://cesarwritingchallenge.blogspot.com/)
 
-####Content you will see on this project
+#### Content you will see on this project 👩‍💻
 My favorite message for you all.
 
     
@@ -30,8 +49,8 @@ My favorite message for you all.
     print(f"{greeting}, my friends!")
 	#This formating thing is unbelievable.
     
-####Windows 10 Tips and Tricks
- Before you go, I wanted to share basic knowledge with you all.
+#### Windows 10 Tips and Tricks
+ Before you go, I wanted to share basic knowledge with you all. 💻
 
 | Windows Tips | Description                    |
 | ------------- | ------------------------------ |
