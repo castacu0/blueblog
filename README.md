@@ -14,7 +14,7 @@ The content of this repo is based on the courses I've been taken the past few mo
  - [Git and GitHub Professional Course](https://platzi.com/clases/git-github/) 🌄
  
 
-# Learning and practicing the language 🌋
+# Learning and practicing the environment 🌋
 
 Some projects I made to introduce myself into this VCS.
   - Checkouts 
@@ -23,6 +23,7 @@ Some projects I made to introduce myself into this VCS.
   - Data types
   - Private & Public Keys
   - GitHub Pages
+  - Epic Readme files
 
 
 ![](https://www.facebook.com/photo?fbid=110181744331307&set=a.105643161451832)
@@ -34,14 +35,14 @@ Some projects I made to introduce myself into this VCS.
 > Even though you are new or not with Git and GitHub, you will learn something new. 
 
 
-### Social Media 🎉
+## Social Media 🎉
 Some other projects created for practicing.
 
 `Youtube Channel` : [Ingles Practico con Cesar](https://www.youtube.com/watch?v=NuIiEnMTuwk&t=5s)
 
 `Personal Blog` : [Cesar - English Writing Challenge](https://cesarwritingchallenge.blogspot.com/)
 
-#### Content you will see on this project 👩‍💻
+## Content you will see on this project 👩‍💻
 My favorite message for you all.
 
     
@@ -49,7 +50,7 @@ My favorite message for you all.
     print(f"{greeting}, my friends!")
 	#This formating thing is unbelievable.
     
-#### Windows 10 Tips and Tricks
+## Windows 10 Tips and Tricks
  Before you go, I wanted to share basic knowledge with you all. 💻
 
 | Windows Tips | Description                    |
