@@ -17,13 +17,15 @@ The content of this repo is based on the courses I've been taken the past few mo
 # Learning and practicing the environment 🌋
 
 Some projects I made to introduce myself into this VCS.
+  - Licence
+  - Setup
   - Checkouts 
   - Branches
   - Pull Requests
   - Data types
   - Private & Public Keys
   - GitHub Pages
-  - Epic Readme files
+  - Readme files
 
 
 ![](https://www.facebook.com/photo?fbid=110181744331307&set=a.105643161451832)
@@ -38,7 +40,7 @@ Some projects I made to introduce myself into this VCS.
 ## Social Media 🎉
 Some other projects created for practicing.
 
-`Youtube Channel` : [Ingles Practico con Cesar](https://www.youtube.com/watch?v=NuIiEnMTuwk&t=5s)
+`Former Youtube Channel` : [Ingles Practico con Cesar](https://www.youtube.com/watch?v=NuIiEnMTuwk&t=5s)
 
 `Personal Blog` : [Cesar - English Writing Challenge](https://cesarwritingchallenge.blogspot.com/)
 
